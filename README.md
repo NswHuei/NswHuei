@@ -43,6 +43,8 @@ Driven by curiosity and a love for hands-on problem-solving. Whether I'm deep in
   <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OWASP-Top%2010-00ADD8?style=for-the-badge&logo=owasp&logoColor=white" /></a>
 </p>
 
 <!--
