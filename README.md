@@ -9,21 +9,17 @@
 
 Driven by curiosity and a love for hands-on problem-solving. Whether I'm deep in a network configuration or building a new app from scratch, my passion is turning "I don't know how" into "I made this work". This is my digital workshop where I document my projects and learning journey.
 
-
-🛡️ Security Tools: SIEM (Wazuh), Wireshark, Nessus, Metasploit, Burp Suite.
-
-
-⚙️ Programming & Scripting: Python, Bash, PowerShell, SQL, TypeScript.
-
-
 💻 Operating Systems: Windows Server, Linux (Ubuntu, CentOS, Kali), macOS.
-
 
 ☁️ Cloud & Containers: AWS, Microsoft Azure , Docker, Kubernetes.
 
+🛡️ Security Tools: SIEM (Wazuh), Wireshark, Nessus, Metasploit, Burp Suite. SonarQube.
 
+📘 Standards & Methodologies: OWASP Top 10.
 
 🌐 Networking: TCP/IP, DNS, DHCP, Firewall Configuration, VPN, VLANS
+
+⚙️ Programming & Scripting: Python, Bash, PowerShell, SQL, TypeScript.
 
 ### My GitHub Stats & Activity
 <p align="left">
@@ -35,15 +31,17 @@ Driven by curiosity and a love for hands-on problem-solving. Whether I'm deep in
   </a>
 </p>
 
-### My Go-To Tools
+### My Top 10 Go-To Tools
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Wazuh-004379?style=for-the-badge&logo=wazuh&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/OWASP-Top%2010-00ADD8?style=for-the-badge&logo=owasp&logoColor=white" /></a>
 </p>
 
