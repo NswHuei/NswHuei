@@ -1,6 +1,3 @@
-<div align="right">
-  <a href="README.md">en Ver perfil en Ingles</a>
-</div>
 # Jun Jie Zhou
 ### Analista de Ciberseguridad & Especialista en Seguridad de Redes
 
